@@ -9,5 +9,16 @@
     "auteur": "Igor Privanovitche",
     "timestamp": "2025-07-21T19:32:52.357078+00:00",
     "lien": "https://discord.com/channels/1395534688977686689/1396937872266887258"
+  },
+  {
+    "channel_id": 1396939115840278528,
+    "titre": "teste avec image",
+    "description": "voici la description",
+    "prix": 520,
+    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/8e7c75ed6befd933c674395cfcddd5557ed78bf5.png",
+    "auteur_id": 405385695348391967,
+    "auteur": "Igor Privanovitche",
+    "timestamp": "2025-07-21T19:37:51.519318+00:00",
+    "lien": "https://discord.com/channels/1395534688977686689/1396939115840278528"
   }
 ]
