@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "channel_id": 1396937872266887258,
+    "titre": "teste sans imgae",
+    "description": "teste sans image et oua",
+    "prix": 5263558,
+    "image": null,
+    "auteur_id": 405385695348391967,
+    "auteur": "Igor Privanovitche",
+    "timestamp": "2025-07-21T19:32:52.357078+00:00",
+    "lien": "https://discord.com/channels/1395534688977686689/1396937872266887258"
+  }
+]
