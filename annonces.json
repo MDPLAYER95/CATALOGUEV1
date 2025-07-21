@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "channel_id": 1396930591198412870,
+    "titre": "fdsf vcvxc vvc",
+    "description": "ddsdsd",
+    "prix": 111111111,
+    "image": "https://media.discordapp.net/attachments/1396930591198412870/1396930653555261460/logo_SUPPLY_CHAIN.png?ex=687fe08d&is=687e8f0d&hm=5ef07e728dfae7bd8ac8701af4a2cee57a949f23781981b2c83abbeef6b2e81a&&format=webp&quality=lossless&width=1024&height=1024",
+    "auteur_id": 405385695348391967,
+    "auteur": "Igor Privanovitche",
+    "timestamp": "2025-07-21T19:03:51.325168+00:00",
+    "lien": "https://discord.com/channels/1395534688977686689/1396930591198412870"
+  }
+]
