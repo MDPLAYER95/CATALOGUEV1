@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "channel_id": 1397231950795772104,
+    "titre": "zadazdaz",
+    "description": "adada",
+    "categorie": "Ship Armes",
+    "prix": 151,
+    "image": null,
+    "auteur_id": 225681416854175745,
+    "auteur": "Moodyy",
+    "timestamp": "2025-07-22T15:01:11.099385+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1397231950795772104"
+  }
+]
