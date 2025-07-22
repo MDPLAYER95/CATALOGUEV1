@@ -58,5 +58,17 @@
     "auteur": "Moodyy",
     "timestamp": "2025-07-22T17:07:19.399069+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1397263481966694511"
+  },
+  {
+    "channel_id": 1397267423723524269,
+    "titre": "Dents Valakkar",
+    "description": "Je vends des dents de Valakkar à l’unité. À récupérer sur Lorville. 🫡",
+    "categorie": "Matières première",
+    "prix": 4500000,
+    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/18bf18b6c7d08da835da9f6863cb195d2b70116b.png",
+    "auteur_id": 225681416854175745,
+    "auteur": "Moodyy",
+    "timestamp": "2025-07-22T17:24:02.625602+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1397267423723524269"
   }
 ]
