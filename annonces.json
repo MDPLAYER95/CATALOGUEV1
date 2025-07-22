@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "channel_id": 1397239929053909166,
+    "titre": "Corne de valakkar",
+    "description": "je vend 6 cornes de Valakkar. A venir chercher a Lorville. Possible d'achat a l'unité",
+    "categorie": "Matières première",
+    "prix": 2000000,
+    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/343f633fac50d54c2a8c8e28619ad2ada0d932b7.png",
+    "auteur_id": 225681416854175745,
+    "auteur": "Moodyy",
+    "timestamp": "2025-07-22T15:34:07.638641+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1397239929053909166"
+  }
+]
