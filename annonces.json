@@ -10,5 +10,17 @@
     "auteur": "Moodyy",
     "timestamp": "2025-07-22T15:49:15.860180+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1397243488130695352"
+  },
+  {
+    "channel_id": 1397254730811703381,
+    "titre": "Perles de Valakkar irradiées",
+    "description": "Vente de perles a l'unité. A venir chercher a Lorville.",
+    "categorie": "Matières première",
+    "prix": 1500000,
+    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/807f0f25981a665a85d01614b3a8a81f85fef947.png",
+    "auteur_id": 225681416854175745,
+    "auteur": "Moodyy",
+    "timestamp": "2025-07-22T16:32:55.173292+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1397254730811703381"
   }
 ]
