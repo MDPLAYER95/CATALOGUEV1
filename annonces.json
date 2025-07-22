@@ -10,5 +10,17 @@
     "auteur": "Igor Privanovitche",
     "timestamp": "2025-07-22T14:05:39.369161+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1397217803433545810"
+  },
+  {
+    "channel_id": 1397220169344094270,
+    "titre": "john doe",
+    "description": "test",
+    "categorie": "Matières première",
+    "prix": 250,
+    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/27df00a573cb040b9c0429e81e4c13fe40d2dc55.png",
+    "auteur_id": 225681416854175745,
+    "auteur": "Moodyy",
+    "timestamp": "2025-07-22T14:14:52.429154+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1397220169344094270"
   }
 ]
