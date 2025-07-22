@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "channel_id": 1397222551016439842,
+    "titre": "test",
+    "description": "Voici les raisons les plus courantes (et la solution) lorsqu’un slash-command n’apparaît pas :\n\nVérification    Explication & correctif\n1. Bot invité sans l’autorisation applications.commands    Ré-invite le bot avec le lien OAuth généré depuis le [Developer Portal] → OAuth2 > URL Generator → scopes bot + applications.commands → coche au moins Send Messages et Use Slash Commands dans les permissions.\n2. Commande globale = délai jusqu’à 1 h    Dans ton code la commande est déclarée simplement :\n@bot.tree.command(name=\"annonce\") → c’est globale.\nDiscord propage les globales en ~15-60 min après tree.sync().\n\nSolution rapide : rends-la spécifique au serveur :\npython<br>@bot.tree.command( # ↓ ajoute ton ID<br> name=\"annonce\", guild=discord.Object(GUILD_ID)<br>)<br>\nou, dans on_ready, force la sync guild :\npython<br>guild = bot.get_guild(GUILD_ID)<br>await bot.tree.sync(guild=guild)<br> → visible en quelques secondes.\n3. Pas de log “Commandes synchronisées”    Regarde la console : si tu ne vois pas Commandes synchronisées (slash), c’est que await bot.tree.sync() n’a pas été exécuté ou a levé une erreur.\n• Assure-toi qu’il est bien dans on_ready et que rien ne plante avant.\n• Si erreur, elle apparaît maintenant dans le logger.\n4. Bot hors-ligne / pas dans ce serveur    Les slash-commands n’apparaissent que si le bot est en ligne et présent dans le serveur où tu tapes “/”.\n5. Conflit de nom    S’il existe déjà une commande annonce (d’un ancien bot ou d’une version antérieure), Discord peut cacher la nouvelle. Supprime l’ancienne via le portail ou renomme : name=\"annoncev2\".\n6. Cache client    Ferme/rouvre Discord ou change de canal pour forcer l’auto-complétion. Sur mobile, la liste se met parfois à jour après 1-2 minutes.",
+    "categorie": "Ship Composants",
+    "prix": 15000,
+    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/e30bda04444b74f670b186bb7f400985e469d6cc.png",
+    "auteur_id": 405385695348391967,
+    "auteur": "Igor Privanovitche",
+    "timestamp": "2025-07-22T14:26:08.412521+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1397222551016439842"
+  }
+]
