@@ -75,5 +75,16 @@
     "auteur": "Igor Privanovitche",
     "timestamp": "2025-07-22T07:45:53.823339+00:00",
     "lien": "https://discord.com/channels/1395534688977686689/1397122227358662758"
+  },
+  {
+    "channel_id": 1397138247951323198,
+    "titre": "teste v2",
+    "description": "dsqdqsdqsd",
+    "prix": 15236,
+    "image": null,
+    "auteur_id": 405385695348391967,
+    "auteur": "Igor Privanovitche",
+    "timestamp": "2025-07-22T08:48:56.679230+00:00",
+    "lien": "https://discord.com/channels/1395534688977686689/1397138247951323198"
   }
 ]
