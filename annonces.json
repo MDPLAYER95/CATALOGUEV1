@@ -31,5 +31,16 @@
     "auteur": "Moodyy",
     "timestamp": "2025-07-22T10:18:41.247762+00:00",
     "lien": "https://discord.com/channels/1371057312227266711/1397160801529499650"
+  },
+  {
+    "channel_id": 1397162633752477726,
+    "titre": "TEST ANNONCE NAVIGO",
+    "description": "test visibilité",
+    "prix": 52365,
+    "image": null,
+    "auteur_id": 405385695348391967,
+    "auteur": "Igor Privanovitche",
+    "timestamp": "2025-07-22T10:25:55.543191+00:00",
+    "lien": "https://discord.com/channels/1371057312227266711/1397162633752477726"
   }
 ]
