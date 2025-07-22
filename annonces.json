@@ -1,16 +1,5 @@
 [
   {
-    "channel_id": 1396968438441971802,
-    "titre": "or 24k carat",
-    "description": "materiaux brute en or 24k valeur noramlement 200000",
-    "prix": 150000,
-    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/b93bb7f0ed195b01a0bc54dabae6a41f644de02b.jpg",
-    "auteur_id": 405385695348391967,
-    "auteur": "Igor Privanovitche",
-    "timestamp": "2025-07-21T21:35:02.415340+00:00",
-    "lien": "https://discord.com/channels/1395534688977686689/1396968438441971802"
-  },
-  {
     "channel_id": 1397122227358662758,
     "titre": "fgjfhffj",
     "description": "fghf hfh jfhj fhj fjhfhjfjfhj hljkl 4564 hjvhj vv bvjvhjvhjv  hjvhv v hjv jv jhvhj  hvjh vjhvjhv jhv vh jv jhvjhv jhvhj jv jvjhv jv jvjhv jhv jhvjhvjhv jhvjhvhj jhv jvjh jhvhj vjhv hjvhj vhj hvvhjvjjvhjhjjhvhv 1. Ajouter un état pour le volume\nAjouter un state volume dans le composant AudioController\nInitialiser le volume à partir de l'audioManager\nAjouter un state showVolumeSlider pour contrôler l'affichage du slider\n2. Créer une interface utilisateur élégante\nRemplacer le conteneur fixe par un design plus sophistiqué\nAjouter un slider de volume qui apparaît au survol ou au clic\nUtiliser le composant Slider de Radix UI déjà disponible\nCréer une animation fluide pour l'apparition/disparition du slider\n1. Ajouter un état pour le volume\nAjouter un state volume dans le composant AudioController\nInitialiser le volume à partir de l'audioManager\nAjouter un state showVolumeSlider pour contrôler l'affichage du slider\n2. Créer une interface utilisateur élégante\nRemplacer le conteneur fixe par un design plus sophistiqué\nAjouter un slider de volume qui apparaît au survol ou au clic\nUtiliser le composant Slider de Radix UI déjà disponible\nCréer une animation fluide pour l'apparition/disparition du slider1. Ajouter un état pour le volume\nAjouter un state volume dans le composant AudioController\nInitialiser le volume à partir de l'audioManager\nAjouter un state showVolumeSlider pour contrôler l'affichage du slider\n2. Créer une interface utilisateur élégante\nRemplacer le conteneur fixe par un design plus sophistiqué\nAjouter un slider de volume qui apparaît au survol ou au clic\nUtiliser le composant Slider de Radix UI déjà disponible\nCréer une animation fluide pour l'apparition/disparition du slider",
