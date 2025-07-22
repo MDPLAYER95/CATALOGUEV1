@@ -10,5 +10,17 @@
     "auteur": "Igor Privanovitche",
     "timestamp": "2025-07-22T14:26:08.412521+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1397222551016439842"
+  },
+  {
+    "channel_id": 1397226187738320896,
+    "titre": "teste netto",
+    "description": "fdfsdfsdfsdfd",
+    "categorie": "Matières première",
+    "prix": 58695,
+    "image": null,
+    "auteur_id": 405385695348391967,
+    "auteur": "Igor Privanovitche",
+    "timestamp": "2025-07-22T14:38:23.331960+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1397226187738320896"
   }
 ]
