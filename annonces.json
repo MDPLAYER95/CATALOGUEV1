@@ -106,5 +106,17 @@
     "auteur": "[𝙏𝙎𝘾] Kenzy",
     "timestamp": "2025-07-25T12:29:58.720484+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1398280805700075583"
+  },
+  {
+    "channel_id": 1398407390616879194,
+    "titre": "Shield FR-66",
+    "description": "Vend FR-66 à l'unité. A venir chercher à Lorville.",
+    "categorie": "Ship Composants",
+    "prix": 200000,
+    "image": "https://raw.githubusercontent.com/MDPLAYER95/CATALOGUEV1/main/images/4c5abc271a65912a6326b26cc6605b401d2e0047.png",
+    "auteur_id": 1133461781914853516,
+    "auteur": "[𝙏𝙎𝘾] Lisaria",
+    "timestamp": "2025-07-25T20:52:35.022661+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1398407390616879194"
   }
 ]
